@@ -14,5 +14,7 @@ You can pre-order yours from CrowdSupply at: [https://www.crowdsupply.com/contro
 
 The EMIT Firmware Development Guide is now available for [MicroPython](https://github.com/ControlBits/EMIT/wiki/EMIT-Firmware-Development-Guide-(MicroPython)) and [Arduino/C++](https://github.com/ControlBits/EMIT/wiki/EMIT-Firmware-Development-Guide-(Arduino)).
 
+EMIT has been designed to fit in an attractive, wall-mounted enclosure. To use this enclosure a very simple modification is needed. This is described along with some other hints and tips on using the enclosure in the [EMIT Case Modification application note.](https://github.com/ControlBits/EMIT/wiki/EMIT-Case-Modification)
+
 
 ![EMIT Features](https://controlbits.com/images/EMIT-v1_2-board-ESP-mSD-labeled-small.jpg "EMIT Features")
